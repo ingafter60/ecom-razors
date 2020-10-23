@@ -18,6 +18,8 @@
         modified:   README.md
     3. Folder Structure and Resources
         3.1 Added assets to public and dummy data to src
+        3.2 In src create components(Cart, Navbar, Products) and constans, pages, stores and strapi folders
+        modified:   README.md
 
 4. Setup Project Pages
 5. Svelte Router Setup
