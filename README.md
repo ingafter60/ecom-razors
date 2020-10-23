@@ -31,7 +31,16 @@
 
 ## Modified README.md
 
-4. Setup Project Pages
+## 4. Setup Project Pages
+
+    4.1 Create template files in pages folder
+        modified:   README.md
+        new file:   src/pages/About.svelte
+        new file:   src/pages/Checkout.svelte
+        new file:   src/pages/Home.svelte
+        new file:   src/pages/Login.svelte
+        new file:   src/pages/ProductTemplate.svelte
+        new file:   src/pages/Products.svelte
 
 5. Svelte Router Setup
 6. Url Parameters
