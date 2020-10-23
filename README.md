@@ -41,6 +41,10 @@
         new file:   src/pages/Login.svelte
         new file:   src/pages/ProductTemplate.svelte
         new file:   src/pages/Products.svelte
+    4.2 Importing files in pages folder to App.svelte
+        modified:   README.md
+        modified:   src/App.svelte
+
 
 5. Svelte Router Setup
 6. Url Parameters
