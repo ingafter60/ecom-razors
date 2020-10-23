@@ -1,26 +1,35 @@
 # BUILDING E-COMMERCE USING SVELTE
 
-    ## 0. Initial commit
-    ## 1. Bootstraping svelte with hello world
-        modified:   .gitignore
-        modified:   README.md
-        new file:   package-lock.json
-        new file:   package.json
-        new file:   public/favicon.png
-        new file:   public/global.css
-        new file:   public/index.html
-        new file:   rollup.config.js
-        new file:   scripts/setupTypeScript.js
-        new file:   src/App.svelte
-        new file:   src/main.js
-    ## 2. Github
-    	https://github.com/ingafter60/ecom-razors
-        modified:   README.md
-    ## 3. Folder Structure and Resources
-        3.1 Added assets to public and dummy data to src
-        3.2 In src create components(Cart, Navbar, Products) and constans, pages, stores and strapi folders
-        modified:   README.md
-    ## Modified README.md
+## 0. Initial commit
+
+## 1. Bootstraping svelte with hello world
+
+    modified:   .gitignore
+    modified:   README.md
+    new file:   package-lock.json
+    new file:   package.json
+    new file:   public/favicon.png
+    new file:   public/global.css
+    new file:   public/index.html
+    new file:   rollup.config.js
+    new file:   scripts/setupTypeScript.js
+    new file:   src/App.svelte
+    new file:   src/main.js
+
+## 2. Github
+
+    https://github.com/ingafter60/ecom-razors
+    modified:   README.md
+
+## 3. Folder Structure and Resources
+
+    3.1 Added assets to public and dummy data to src
+    3.2 In src create components(Cart, Navbar, Products) and constans, pages, stores and strapi folders
+    modified:   README.md
+
+## Modified README.md
+
+## Modified README.md
 
 4. Setup Project Pages
 
