@@ -45,8 +45,15 @@
         modified:   README.md
         modified:   src/App.svelte
 
+## 5. Svelte Router Setup
 
-5. Svelte Router Setup
+    Install svelte routing: npm install --save svelte-routing
+        modified:   README.md
+        modified:   package-lock.json
+        modified:   package.json
+        modified:   src/App.svelte
+
+
 6. Url Parameters
 7. Hero Component
 8. Local Data Structure
