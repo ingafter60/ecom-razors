@@ -58,7 +58,14 @@
         modified:   src/App.svelte
         modified:   src/pages/ProductTemplate.svelte
 
-7. Hero Component
+## 7. Hero Component
+
+    7.1 Link: A component used to navigate around the application.
+        modified:   README.md
+        new file:   src/components/Hero.svelte
+        modified:   src/pages/Home.svelte
+
+
 8. Local Data Structure
 9. Svelte Store BenefitsBasics
 10. Products Store Setup
