@@ -53,8 +53,11 @@
         modified:   package.json
         modified:   src/App.svelte
 
+## 6. Url Parameters
 
-6. Url Parameters
+        modified:   src/App.svelte
+        modified:   src/pages/ProductTemplate.svelte
+
 7. Hero Component
 8. Local Data Structure
 9. Svelte Store BenefitsBasics

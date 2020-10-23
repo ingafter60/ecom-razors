@@ -15,6 +15,8 @@
     <Link to="/">Home</Link>
     <Link to="/about">About</Link>
     <Link to="/products">Products</Link>
+    <Link to="/products/1">Products 1</Link>
+    <Link to="/products/5">Products 5</Link>
   </nav>
   <div>
     <Route path="/" component={Home} />
