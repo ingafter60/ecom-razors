@@ -1,7 +1,7 @@
 # BUILDING E-COMMERCE USING SVELTE
 
-    0. Initial commit
-    1. Bootstraping svelte with hello world
+    ## 0. Initial commit
+    ## 1. Bootstraping svelte with hello world
         modified:   .gitignore
         modified:   README.md
         new file:   package-lock.json
@@ -13,15 +13,17 @@
         new file:   scripts/setupTypeScript.js
         new file:   src/App.svelte
         new file:   src/main.js
-    2. Github
+    ## 2. Github
     	https://github.com/ingafter60/ecom-razors
         modified:   README.md
-    3. Folder Structure and Resources
+    ## 3. Folder Structure and Resources
         3.1 Added assets to public and dummy data to src
         3.2 In src create components(Cart, Navbar, Products) and constans, pages, stores and strapi folders
         modified:   README.md
+    ## Modified README.md
 
 4. Setup Project Pages
+
 5. Svelte Router Setup
 6. Url Parameters
 7. Hero Component
