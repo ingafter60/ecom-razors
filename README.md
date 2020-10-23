@@ -13,3 +13,6 @@
         new file:   scripts/setupTypeScript.js
         new file:   src/App.svelte
         new file:   src/main.js
+    1.1 Github
+    	https://github.com/ingafter60/ecom-razors
+        modified:   README.md
