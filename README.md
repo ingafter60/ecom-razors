@@ -64,6 +64,9 @@
         modified:   README.md
         new file:   src/components/Hero.svelte
         modified:   src/pages/Home.svelte
+    7.2 links An action used on a root element to make all relative anchor elements navigate around the application.
+        modified:   README.md
+        modified:   src/pages/Home.svelte
 
 
 8. Local Data Structure

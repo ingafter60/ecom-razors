@@ -1,12 +1,9 @@
 <script>
   import Hero from './../components/Hero.svelte'
-  import { Link } from 'svelte-routing'
+  import { link } from 'svelte-routing'
   // featured products
-  function getProps() {
-    return { class: 'btn btn-primary btn-hero' }
-  }
 </script>
 
 <Hero>
-  <Link to="/products" {getProps}>shop now</Link>
+  <a href="/products" class="btn btn-primary btn-hero" use:link>shop now</a>
 </Hero>
